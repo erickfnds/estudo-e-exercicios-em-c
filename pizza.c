@@ -1,3 +1,17 @@
+/*
+ * Projeto: Atendimento de Pizzaria
+ * Linguagem: C
+ * daata de criação: 17/07/2026
+ * 
+ */
+
+
+
+
+
+
+
+
 #include <stdio.h>
 #include <string.h> 
 
