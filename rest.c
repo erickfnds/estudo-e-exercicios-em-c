@@ -1,3 +1,19 @@
+
+/*
+ * Projeto: Sistema de Atendimento - Restaurante Nosso Lar
+ * Data de criação: 20/07/2026
+ * linguagem : c
+ */
+
+
+
+
+
+
+
+
+
+
 #include <stdio.h>
 #include <string.h>
 int main()
