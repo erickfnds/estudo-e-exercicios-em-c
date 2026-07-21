@@ -1,3 +1,13 @@
+/*
+ * Arquivo: sistema-login.c
+ * EF
+ * Data: 21/07/2026
+ * Descricao: Sistema de autenticacao com limite de tentativas e bloqueio temporizado via Sleep().
+ */
+
+
+
+
 #include <stdio.h>
 #include <string.h>
 #include <windows.h>
