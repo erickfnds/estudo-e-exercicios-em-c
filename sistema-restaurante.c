@@ -1,6 +1,6 @@
 
 /*
- * Projeto: Sistema de Atendimento - Restaurante Nosso Lar
+ * Projeto: Sistema de Atendimento - 
  * Data de criação: 20/07/2026
  * linguagem : c
  */
