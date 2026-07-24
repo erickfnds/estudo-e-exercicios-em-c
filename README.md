@@ -1,4 +1,4 @@
-# 💻 Estudos e Exercícios de Programação (C & Portugol)
+# 💻 Estudos e Exercícios de Programação (C)
 
 Repositório dedicado à prática de lógica de programação, algoritmos e desenvolvimento de pequenos sistemas em C documentando minha evolução durante o curso de Análise e Desenvolvimento de Sistemas.
 
@@ -19,6 +19,8 @@ Repositório dedicado à prática de lógica de programação, algoritmos e dese
 | 🍕 **Sistema de Pizzaria** | `sistema-pizzaria.c` | C | Estrutura de Decisão, Formatação de Saída | Menu interativo de pedidos de pizza. |
 | 🍽️ **Restaurante** | `sistema-restaurante.c` | C | `switch-case`, `strstr()`, Funções de String | Sistema de refeições com verificação de opções e tamanhos. |
 | 🔒 **Sistema de Login** | `sistema-login.c` | C | `while`, `for`, `fgets()`, `strcmp()`, `Sleep()` | Autenticação com validação de credenciais, limite de tentativas e bloqueio temporizado. |
+| 🏦 **Caixa Eletrônico** | `sistema-caixa.c` | C | `do-while`, `switch-case`, Validação Defensiva (`if`/`else`) | Simulador bancário com consulta de saldo, depósito e saque com trava de segurança. |
+
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
@@ -30,17 +32,17 @@ Repositório dedicado à prática de lógica de programação, algoritmos e dese
 ---
 
 ## 🎯 Próximos Passos
-- [ ] Implementar laços de repetição (`while` / `for`) nos menus para evitar que o programa feche após uma ação.
+- [x] Implementar laços de repetição (`do-while` / `while`) nos menus para evitar que o programa feche após uma ação.
 - [ ] Criar novos projetos em C explorando vetores (`arrays`) e matrizes.
 - [ ] Refatorar os códigos organizando a lógica em funções separadas.
 
 ---
-## ▶️ Como executar (exemplo com sistema de login)
+## ▶️ Como executar (exemplo com caixa eletrônico)
 
 Compile:
 
-gcc sistema-login.c -o login
+gcc sistema-caixa.c -o caixa
 
 Execute:
 
-./login
+./caixa
